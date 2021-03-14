@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "./static/css/main.5cc850e3.chunk.css",
+    "main.js": "./static/js/main.a90f045d.chunk.js",
+    "main.js.map": "./static/js/main.a90f045d.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.9708505d.js",
+    "runtime-main.js.map": "./static/js/runtime-main.9708505d.js.map",
+    "static/css/2.1e58ee36.chunk.css": "./static/css/2.1e58ee36.chunk.css",
+    "static/js/2.e7232bf6.chunk.js": "./static/js/2.e7232bf6.chunk.js",
+    "static/js/2.e7232bf6.chunk.js.map": "./static/js/2.e7232bf6.chunk.js.map",
+    "static/js/3.f5e1e433.chunk.js": "./static/js/3.f5e1e433.chunk.js",
+    "static/js/3.f5e1e433.chunk.js.map": "./static/js/3.f5e1e433.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.1e58ee36.chunk.css.map": "./static/css/2.1e58ee36.chunk.css.map",
+    "static/css/main.5cc850e3.chunk.css.map": "./static/css/main.5cc850e3.chunk.css.map",
+    "static/js/2.e7232bf6.chunk.js.LICENSE.txt": "./static/js/2.e7232bf6.chunk.js.LICENSE.txt",
+    "static/media/RewardQR.module.css": "./static/media/1.12183c9c.png",
+    "static/media/NftTrays.module.css": "./static/media/1.97c2538d.png",
+    "static/media/1.ba7e72ee.png": "./static/media/1.ba7e72ee.png",
+    "static/media/ModalButton.module.css": "./static/media/2.f641b1f3.png",
+    "static/media/2.c22b40f6.png": "./static/media/2.c22b40f6.png",
+    "static/media/SecondaryLevel.module.css": "./static/media/2.c45deee9.png",
+    "static/media/LockUp.module.css": "./static/media/3.6bd8ab67.png",
+    "static/media/3.99ae4116.png": "./static/media/3.99ae4116.png",
+    "static/media/TertiaryLevel.module.css": "./static/media/3.ef15949e.png",
+    "static/media/LiquiditySwap.module.css": "./static/media/4.7c6b1dc4.png",
+    "static/media/FourLevel.module.css": "./static/media/4.8a7a73cf.png",
+    "static/media/TrayModal.module.css": "./static/media/4.9a9d5ca6.png",
+    "static/media/4.e2ab596c.png": "./static/media/4.e2ab596c.png",
+    "static/media/NftSolution.module.css": "./static/media/8.1600312b.png",
+    "static/media/SolutionModal.module.css": "./static/media/8_check.b369bd54.png",
+    "static/media/bg.6b1bd23d.png": "./static/media/bg.6b1bd23d.png",
+    "static/media/logo.be17799f.png": "./static/media/logo.be17799f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9708505d.js",
+    "static/css/2.1e58ee36.chunk.css",
+    "static/js/2.e7232bf6.chunk.js",
+    "static/css/main.5cc850e3.chunk.css",
+    "static/js/main.a90f045d.chunk.js"
+  ]
+}
