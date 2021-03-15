@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "./static/css/main.c1c4c0dd.chunk.css",
-    "main.js": "./static/js/main.c5a26822.chunk.js",
-    "main.js.map": "./static/js/main.c5a26822.chunk.js.map",
+    "main.js": "./static/js/main.ae1bf5ba.chunk.js",
+    "main.js.map": "./static/js/main.ae1bf5ba.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.9708505d.js",
     "runtime-main.js.map": "./static/js/runtime-main.9708505d.js.map",
     "static/css/2.1e58ee36.chunk.css": "./static/css/2.1e58ee36.chunk.css",
-    "static/js/2.6ad57391.chunk.js": "./static/js/2.6ad57391.chunk.js",
-    "static/js/2.6ad57391.chunk.js.map": "./static/js/2.6ad57391.chunk.js.map",
+    "static/js/2.7d57ec60.chunk.js": "./static/js/2.7d57ec60.chunk.js",
+    "static/js/2.7d57ec60.chunk.js.map": "./static/js/2.7d57ec60.chunk.js.map",
     "static/js/3.f5e1e433.chunk.js": "./static/js/3.f5e1e433.chunk.js",
     "static/js/3.f5e1e433.chunk.js.map": "./static/js/3.f5e1e433.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.1e58ee36.chunk.css.map": "./static/css/2.1e58ee36.chunk.css.map",
     "static/css/main.c1c4c0dd.chunk.css.map": "./static/css/main.c1c4c0dd.chunk.css.map",
-    "static/js/2.6ad57391.chunk.js.LICENSE.txt": "./static/js/2.6ad57391.chunk.js.LICENSE.txt",
+    "static/js/2.7d57ec60.chunk.js.LICENSE.txt": "./static/js/2.7d57ec60.chunk.js.LICENSE.txt",
     "static/media/RewardQR.module.css": "./static/media/1.12183c9c.png",
     "static/media/NftTrays.module.css": "./static/media/1.97c2538d.png",
     "static/media/1.ba7e72ee.png": "./static/media/1.ba7e72ee.png",
@@ -35,8 +35,8 @@
   "entrypoints": [
     "static/js/runtime-main.9708505d.js",
     "static/css/2.1e58ee36.chunk.css",
-    "static/js/2.6ad57391.chunk.js",
+    "static/js/2.7d57ec60.chunk.js",
     "static/css/main.c1c4c0dd.chunk.css",
-    "static/js/main.c5a26822.chunk.js"
+    "static/js/main.ae1bf5ba.chunk.js"
   ]
 }
